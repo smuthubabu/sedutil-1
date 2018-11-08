@@ -35,6 +35,6 @@ Source code is available on GitHub at https://github.com/Drive-Trust-Alliance/se
 
 Linux and Windows executables are available at https://github.com/Drive-Trust-Alliance/sedutil/wiki/Executable-Distributions
 
-If you are looking for the PSID revert function see linux/PSIDRevert_LINUX.txt or win32/PSIDRevert_WINDOWS.txt
+If you are looking for the PSID revert function see linux/PSIDRevert_LINUX.txt or windows/PSIDRevert_WINDOWS.txt
 
 PLEASE SEE CONTRIBUTING if you would like to make a code contribution.
